@@ -1,4 +1,4 @@
-dockerFROM elasticsearch:2
+FROM elasticsearch:2
 
 MAINTAINER developers@synopsis.cz
 
